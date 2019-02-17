@@ -20,4 +20,10 @@ _2019/?/?_
 
 敬请等待...
 
+## LISTENING
 
+ ### 刷词 词源路径
+
+> * #### [仙听为快雅思热词](https://weibo.com/p/10080838bc37ccb1e200648a8a416698d6a37f/super_index)
+> * #### 王璐雅思王真题语料库
+>   > [语料库每日错词表](/Users/lijunlong/IdeaProjects/DailyIELTS/src/Listening/语料库每日错词表.md)
