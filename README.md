@@ -27,3 +27,23 @@ _2019/?/?_
 > * #### [仙听为快雅思热词](https://weibo.com/p/10080838bc37ccb1e200648a8a416698d6a37f/super_index)
 > * #### 王璐雅思王真题语料库
 >   *   [语料库每日错词表](https://github.com/Jack1995/DailyIELTS/tree/master/src/Listening/语料库每日错词表)
+
+
+## SPEAKING
+
+ ### 刷题 题源
+ 
+ > * #### [雅思口语新周刊](https://www.ximalaya.com/waiyu/321911/)
+ 
+ >  * [每日口语](https://github.com/Jack1995/DailyIELTS/tree/master/src/Speaking/每日口语)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
