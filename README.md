@@ -34,7 +34,6 @@ _2019/?/?_
  ### 刷题 题源
  
 > * #### [雅思口语新周刊](https://www.ximalaya.com/waiyu/321911/)
- 
 >   * [每日口语](https://github.com/Jack1995/DailyIELTS/tree/master/src/Speaking/每日口语)
  
  
