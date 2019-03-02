@@ -13,7 +13,7 @@
 
 ##### A1: 
 
-`Yeah, of course. I just watched the Chinese hottest science fiction film The Wandering earth last month, you know its so fantastic!`
+`Yeah, of course. I just watched the Chinese hottest science fiction film The Wandering earth last month,it talks about How the chinese astronaut avoid the earth destoried by Jupiter, you know its so fantastic!`
 
 ##### A2: 
 
@@ -21,12 +21,12 @@
 
 ##### A3:
 
-`Emm, Firstly, The science fiction film is my favorite, cause When i was young, i liked learning about the knowledge of astronomy ,so i like it. Secondly i usually watch comedy film, i believe that it will make me feel happy when i sadness.`
+`Emm, Firstly, The science fiction film is my favorite, cause When i was young, i liked learning about the knowledge of astronomy ,so i like it. Secondly i usually watch a comedy film, i believe that it will make me feel happy when i sadness.`
 
 ##### A4:
 
-`Yeah, as for me, I really don't want to a movie alone, but Sometimes a good film comes out which is i wanted, and nobody goes to cinema with me, so i have to watch it alone.`
+`Yeah, as for me, I really don't want to a movie alone, specially When the movie talks about love story. but Sometimes a good film comes out which is i wanted, and nobody goes to the cinema with me, so i have to watch it alone.`
 
 ##### A5:
 
-`For this question, i prefer to watch a film in a cinema, cause it has a biggest screen that you must have not in your house. The biggest screen can provide a better viewing experience. so that’s it`
+`For this question, I prefer to watch a film in a cinema, cause it has the biggest screen that you must have not in your house. The biggest screen can provide a better viewing experience. so that’s it`
