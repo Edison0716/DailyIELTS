@@ -40,7 +40,7 @@ convenience 方便的
 
 corpse 尸体
 
-corresponding 通信
+correspondence 通信
 
 costume 服装
  
