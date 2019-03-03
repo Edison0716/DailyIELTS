@@ -26,3 +26,7 @@ A3: Hint
 A4:
 
 `For the body, getting up early is painful. but it has benefit for our mind, cause we have enough time to finish more worthy things which can promote ourself. so i like it.`
+
+#### Shoes
+
+`When I go shopping, I buy my favorite shoes whenever I find them.`
